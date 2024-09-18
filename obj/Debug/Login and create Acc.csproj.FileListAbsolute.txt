@@ -1,0 +1,11 @@
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\bin\Debug\Login and create Acc.exe.config
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\bin\Debug\Login and create Acc.exe
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\bin\Debug\Login and create Acc.pdb
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login and create Acc.csproj.AssemblyReference.cache
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login_and_create_Acc.frmCreate.resources
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login_and_create_Acc.frmLogin.resources
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login_and_create_Acc.Properties.Resources.resources
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login and create Acc.csproj.GenerateResource.cache
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login and create Acc.csproj.CoreCompileInputs.cache
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login and create Acc.exe
+C:\Users\thesm\source\repos\sem 2\Project\login and create acc\Login and create Acc\obj\Debug\Login and create Acc.pdb
